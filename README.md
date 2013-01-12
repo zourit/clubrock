@@ -1,10 +1,8 @@
 clubrock
 ========
 
---------------------------------------------------------------------------------
 Les fichiers sources du nouveau site du club rock de l'ENS Lyon. 
 Travail collabortatif d'étudiants du master "Architecture de l'information"
---------------------------------------------------------------------------------
 
 Deux mots sur l'organisation du dépôt.
 
