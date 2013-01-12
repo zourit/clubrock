@@ -16,5 +16,5 @@ Il est organisé en lien avec le plan de travail. Lorsque quelqu'un contribue à
 
 * Le dossier "www" : 
 
-C'est le dossier qui contiendra le site achévé. Son organisation reste à déterminer. Lorsque les pièces détachées fonctionneront bien, elles y seront insérées. Le travail consistera à bien rendre compatible les différents morceaux de code.  
+C'est le dossier qui contiendra le site achevé. Son organisation reste à déterminer. Lorsque les pièces détachées fonctionneront bien, elles y seront insérées. Le travail consistera à bien rendre compatible les différents morceaux de code.  
 
